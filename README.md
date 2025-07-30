@@ -119,7 +119,6 @@ For questions, suggestions feel free to contact me:
 
 ```bash
 cell2location/
-├── outputs
 ├── version_2_0.ipynb
 ├── version_2_1.ipynb
 ├── version_3_0.ipynb
@@ -128,16 +127,10 @@ cell2location/
 rctd/
 ├── rctd_pipelin.ipynb
 ├── convert.ipynb
-├── outputs
-├── RCTD_plots
 
 evaluation/
 ├── evaluation.ipynb
 
 scrnaseq/
-├── input
-├── input2
-├── output
-├── output2
 ├── scrnaseq_qc.ipynb
 ├── scrnaseq_exp_filtered.ipynb
