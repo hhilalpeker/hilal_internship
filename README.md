@@ -1,5 +1,7 @@
 # Comparative Evaluation of Cell2location and RCTD in Reclassifying Unknown Spots in Spatial Transcriptomics Data 
 
+This work was carried out at the [Daub Lab](https://www.daublab.org/) between **2 June** and **2 August**.  
+
 This project aims to provide a clear comparison between **Cell2location** and **RCTD** for the reclassification of “unknown” spots in spatial transcriptomics (ST) datasets. The overall objective is to determine which method more accurately assigns cell types to ambiguous or previously unclassified regions, based on a reference single-cell RNA sequencing (scRNA-seq) dataset and pathologist annotations.
 
 The “cell2location” open-source tool used for ST-scRNAseq integration can be found here: https://github.com/BayraktarLab/cell2location/
@@ -114,6 +116,8 @@ This comparison provides useful insights into the strengths and weaknesses of bo
 
 For questions, suggestions feel free to contact me:  
 [hhilalpeker@gmail.com](mailto:hhilalpeker@gmail.com)
+
+I would like to express my sincere gratitude to the members of the CDA who supported me during this work, for their valuable guidance, feedback, and encouragement throughout the process.
 
 ## Repository Structure
 
