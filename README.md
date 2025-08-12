@@ -117,7 +117,7 @@ This comparison provides useful insights into the strengths and weaknesses of bo
 For questions, suggestions feel free to contact me:  
 [hhilalpeker@gmail.com](mailto:hhilalpeker@gmail.com)
 
-I would like to express my sincere gratitude to the members of the CDA who supported me during this work, for their valuable guidance, feedback, and encouragement throughout the process.
+I would like to express my sincere gratitude to the members of the Daub Lab who supported me during this work, for their valuable guidance, feedback, and encouragement throughout the process.
 
 ## Repository Structure
 
