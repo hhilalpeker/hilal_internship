@@ -97,9 +97,7 @@ This project presents a comparative workflow for evaluating **Cell2location** an
 By training both methods on the same reference (scRNA-seq) and spatial sample (V10F03-034_C), and applying the same cell assignment strategy (Version 3.1 + **maximum cell type** selection), a fair comparison was achieved.
 
 **Key conclusion:**
-- While both methods produced biologically meaningful results,
-- **Cell2location (Version 3.1)** paired with **maximum cell type** assignment aligned more closely with **pathologist annotations** in terms of spatial structure and classification accuracy.
-- However, neither method achieved perfect reclassification performance, indicating the complexity of the unknown spots and the limitations of current deconvolution approaches.
+While both approaches produced biologically meaningful spatial patterns, RCTD achieved higher overall reclassification accuracy, particularly in regions with clear tumor–stroma separation. In contrast, Cell2location (Version 3.1) demonstrated a more conservative behavior, refraining from over-assignment in uncertain regions and thus maintaining a lower false-positive rate.These results highlight the complementary strengths of both pipelines, RCTD providing robust global predictions, and Cell2location offering more cautious, biologically interpretable spatial assignments.
 
 This comparison provides useful insights into the strengths and weaknesses of both pipelines when applied to breast cancer ST data, and offers a potential baseline for further method development.
 
